@@ -1,0 +1,28 @@
+name: NItroGo Marketing Infusionsoft Resources
+favicon: null
+layout_spectrum: 0.009881791658699512
+typography_spectrum: 0.6358804150950164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42915674042887986
+  lightness: 0.09815277857705951
+  saturation: 0.5146903852000833
+  rhythmicContrast: 0.7559083367232233
+purpose: []
